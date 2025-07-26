@@ -35,8 +35,8 @@ Ich entwickle Projekte rund um:
 ---
 
 📫 **Kontakt:**  
-➡️ [www.linkedin.com/in/stefan-sikiric-26663224a]  
-➡️ [stefan.sikiric@gmail.com]
+➡️ [Mein LinkedIn-Profil](www.linkedin.com/in/stefan-sikiric-26663224a)
+➡️ [E-Mail](stefan.sikiric@gmail.com)
 
 
 <!--
