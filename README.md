@@ -13,14 +13,13 @@ Ich bin ein Quereinsteiger mit einem Background als Werbetexter – heute begeis
 Ich entwickle Projekte rund um:
 - Churn Prediction & Kundenanalyse
 - Automatisiertes Datenmanagement
-- Web-Anwendungen mit React & Node.js
 - Infrastructure-as-Code und CI/CD
 
 ## 🧪 Projekte (Auswahl)
 
-- 🧠 [Churn Prediction mit Python](Link-zum-Repo): Von EDA bis zur Modellbewertung mit Logistic Regression
-- 🐧 [Linux-Basics & Shell-Automation](Link): Automatisierung kleiner Admin-Aufgaben mit Bash
-- ☁️ [Cloud Setup mit Terraform & Azure](Link): Infrastruktur mit Code aufsetzen
+- 🧠 [Churn Prediction mit Python](https://github.com/sik84/churn-prediction): Von EDA bis zur Modellbewertung mit Logistic Regression
+- ☁️ [Cloud-Infrastruktur mit Ubuntu, Azure und Docker](https://github.com/sik84/Passwort-Tresor): Containerisierung einer Passwort-Anwendung auf der Cloud
+- 🐧 [Automatisierung und NGINX](https://github.com/sik84/admin-toolkit): Automatisierte NGINX-Installation
 
 ## 🧰 Tools & Technologien
 
