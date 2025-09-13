@@ -1,7 +1,6 @@
 # 👋 Servus! Hier ist der Stefan
 
-Willkommen auf meinem GitHub-Profil!  
-Ich bin ein Quereinsteiger mit einem Background als Werbetexter – heute begeistert von IT, Daten und Automatisierung.
+Willkommen auf meinem GitHub-Profil! Ich verbinde IT-Infrastruktur mit Data Analytics, um Systeme nicht nur stabil zu betreiben, sondern auch datengetrieben zu optimieren.
 
 ## 🚀 Was ich mache
 
