@@ -6,7 +6,7 @@ Ich bin ein Quereinsteiger mit einem Background als Werbetexter – heute begeis
 ## 🚀 Was ich mache
 
 🔧 LINUX & SYSTEMADMINISTRATION  
-🧠 INTELLIGENTE DATENVERARBEITUNG mit Python  
+🧠 INTELLIGENTE DATENVERARBEITUNG & -ANALYSE mit Python  
 🗃️ ARBEITEN MIT RELATIONALEN & NoSQL-DATENBANKEN  
 🌐 CLOUD-INFRASTRUKTUR (Azure, AWS) & AUTOMATISIERUNG (Ansible, Docker)
 
