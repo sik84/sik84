@@ -16,9 +16,9 @@ Ich entwickle Projekte rund um:
 
 ## 🧪 Projekte (Auswahl)
 
-- 🧠 [Churn Prediction mit Python](https://github.com/sik84/churn-prediction): Von EDA bis zur Modellbewertung mit Logistic Regression
-- 📊 [Open Data Bay Customer Support Analysis](https://github.com/sik84/open-data-bay-customer-support-analysis): Analyse von Kundensupport-Tickets zur Untersuchung von First Response Time vs. Kundenzufriedenheit
-- ☁️ [Cloud-Infrastruktur mit Ubuntu, Azure und Docker](https://github.com/sik84/Passwort-Tresor): Containerisierung einer Passwort-Anwendung auf der Cloud
+- 🧠 [Churn Prediction mit Python](https://github.com/sik84/churn-prediction): Von EDA bis zur Modellbewertung mit Logistic Regression - Ziel ist das Erkennen möglicher Muster und Einflussfaktoren, die zur Kündigung von Kunden führen
+- 📊 [Open Data Bay Customer Support Analysis](https://github.com/sik84/open-data-bay-customer-support-analysis): Analyse von Kundensupport-Tickets, Datenbereinigung, Feature Engineering & Regression zur Untersuchung von First Response Time vs. Kundenzufriedenheit
+- ☁️ [Cloud-Infrastruktur mit Ubuntu, Azure und Docker](https://github.com/sik84/Passwort-Tresor): Containerisierung einer Passwort-Anwendung via docker-compose auf der Cloud in Azure
 - 🐧 [Automatisierung und NGINX](https://github.com/sik84/admin-toolkit): Automatisierte NGINX-Installation
 
 ## 🧰 Tools & Technologien
