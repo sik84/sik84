@@ -1,6 +1,6 @@
 # 👋 Servus! Hier ist der Stefan
 
-Willkommen auf meinem GitHub-Profil! Ich verbinde IT-Infrastruktur mit Data Analytics, um Systeme nicht nur stabil zu betreiben, sondern auch datengetrieben zu optimieren.
+Willkommen auf meinem GitHub-Profil! Ich verbinde IT-Infrastruktur & Support Operations mit angewandter Data Science – mit Schwerpunkt auf eCommerce Customer Analytics und Churn Prognosen.
 
 ## 🚀 Was ich mache
 
