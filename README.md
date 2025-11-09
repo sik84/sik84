@@ -9,6 +9,8 @@ Willkommen auf meinem GitHub-Profil! Ich verbinde IT-Infrastruktur & Support Ope
 🗃️ ARBEITEN MIT RELATIONALEN & NoSQL-DATENBANKEN  
 🌐 CLOUD-INFRASTRUKTUR (Azure, AWS) & AUTOMATISIERUNG (Ansible, Docker)
 
+📌 Fokus: Churn-Analytics & Customer Behaviour im eCommerce Umfeld
+
 Ich entwickle Projekte rund um:
 - Churn Prediction & Kundenanalyse
 - Automatisiertes Datenmanagement
