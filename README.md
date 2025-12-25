@@ -5,8 +5,11 @@ Willkommen auf meinem GitHub-Profil! Ich verbinde IT-Infrastruktur & Support Ope
 ## 🚀 Was ich mache
 
 🧠 INTELLIGENTE DATENVERARBEITUNG & -ANALYSE mit Python  
+
 🗃️ ARBEITEN MIT RELATIONALEN & NoSQL-DATENBANKEN
+
 🔧 LINUX & SYSTEMADMINISTRATION
+
 🌐 CLOUD-INFRASTRUKTUR (Azure, AWS) & AUTOMATISIERUNG (Ansible, Docker)
 
 📌 Fokus: Churn-Analytics & Customer Behaviour im eCommerce Umfeld
