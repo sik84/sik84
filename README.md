@@ -21,9 +21,9 @@ Ich entwickle Projekte rund um:
 
 ## 🧪 Projekte (Auswahl)
 
+- ✅ [Customer-Ticket-Insights](https://github.com/sik84/customer_ticket_insights): Analyse von Kundenzufriedenheit, Feedback-Verhalten und problematischen Supportfällen auf operativer Ebene.
 - 🧠 [Churn Prediction mit Python](https://github.com/sik84/churn-prediction): Strategische Analyse von Kundenabwanderung (Churn) mit Fokus auf Kundenbindung und langfristige Geschäftskennzahlen.
 - 📊 [Open Data Bay Customer Support Analysis](https://github.com/sik84/open-data-bay-customer-support-analysis): Analyse von Kundensupport-Tickets, Datenbereinigung, Feature Engineering & Regression zur Untersuchung von First Response Time vs. Kundenzufriedenheit
-- ✅ [Customer-Ticket-Insights](https://github.com/sik84/customer_ticket_insights): Analyse von Kundenzufriedenheit, Feedback-Verhalten und problematischen Supportfällen auf operativer Ebene.
 
 ## 🧰 Tools & Technologien
 
